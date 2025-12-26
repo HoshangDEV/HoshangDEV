@@ -37,7 +37,3 @@ Full Stack Developer building scalable web, mobile, and backend applications.
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HoshangDEV&theme=github_dark)
 
 </div>
-
-## Links
-
-[hoshang.dev](https://hoshang.dev) • [GitHub](https://github.com/HoshangDEV)
