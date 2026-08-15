@@ -8,7 +8,6 @@ Full Stack Developer building scalable web, mobile, and backend applications.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TanStack Start](https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square&logoColor=white)
-![Remix](https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **Mobile**
@@ -37,3 +36,7 @@ Full Stack Developer building scalable web, mobile, and backend applications.
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HoshangDEV&theme=github_dark)
 
 </div>
+
+## Links
+
+[hoshang.dev](https://hoshang.dev) • [GitHub](https://github.com/HoshangDEV)
